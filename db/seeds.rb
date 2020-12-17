@@ -59,15 +59,3 @@ champion_jersey = Item.create!(name: "Champion Slider Baseball Jersey", image: "
 champro_baseball = Item.create!(name: "Adult Baseballs - Official League Baseball - Genuine Leather Cover -(Case of One Dozen Balls)", image: "https://images-na.ssl-images-amazon.com/images/I/61%2BFp0iItgL._AC_UX385_.jpg", description: Faker::Lorem.paragraph(sentence_count: 80), price: 53, amount: 1, total: 0 )
 
 
-
-
-
-
-
-jon_cart = Cart.create!(user_id: jon.id)
-
-cart_item1 = CartItem.create!(item_id: basketball_net.id, cart_id: jon_cart.id)
-cart_item2 = CartItem.create!(item_id: nfl_football.id, cart_id: jon_cart.id)
-cart_item3 = CartItem.create!(item_id: football_helmet.id, cart_id: jon_cart.id)
-
-# hello
