@@ -1,25 +1,15 @@
-# README
+# ReadyFit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description
 
-Things you may want to cover:
+ReadyFit is an e-commerce platform meant to help people find the gear they need to get active!
 
-* Ruby version
+# Installation
 
-* System dependencies
+1. Run bundle install
+2. Run 'rails:db migrate'
+3. Navigate into [front end] (https://github.com/jimferdous/ReadyFit-frontend)
 
-* Configuration
+# Demo
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ReadyFit-backend
+Watch a demo of this project by [clicking here] (https://www.loom.com/share/65715c47b9fa4c1398494daf2221484d)
