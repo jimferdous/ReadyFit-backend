@@ -10,7 +10,7 @@ ReadyFit is an e-commerce platform meant to help people find the gear they need 
 2. Run 'rails:db migrate'
 3. Run 'rails:db seed'
 4. Start server with 'rails s'
-5. Navigate into [front end](https://github.com/jimferdous/ReadyFit-frontend)
+5. Navigate into [front end](https://github.com/jimferdous/ReadyFit-frontend/tree/jim)
 
 # Demo
 
